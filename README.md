@@ -1,4 +1,4 @@
-## Fine-Tuning Llama-2-7b on Databricks-Dolly-15k Dataset and Evaluating with BigBench-Hard
+# **Fine-Tuning Llama-2-7b on Databricks-Dolly-15k Dataset and Evaluating with BigBench-Hard**
 
 In this project we will fine-tuning the Llama 2-7b-chat-hf model on the databricks-dolly-15k dataset using Google Colab.
 
