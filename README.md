@@ -24,14 +24,8 @@ The databricks-dolly-15k dataset, hosted on [Hugging Face](https://huggingface.c
 - Optimizer: paged_adamw_32bit
 
 ## Training Result:
-+------+--------------+
-| Step | Training Loss|
-+------+--------------+
-|  234 |    2.494200  |
-|  468 |    2.316800  |
-|  702 |    2.290700  |
-|  936 |    2.277300  |
-+------+--------------+
+![image](https://github.com/DrishtiShrrrma/llama-2-7b-chat-hf-databricks-dolly-15k/assets/129742046/5c787775-a88f-4466-8700-f0c9e41f0d88)
+
 
 ## Post-Training Analysis
 
